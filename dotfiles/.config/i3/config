@@ -162,6 +162,4 @@ bindsym XF86AudioLowerVolume exec pactl set-sink-volume @DEFAULT_SINK@ -2%
 
 bindsym Control+Shift+l i3lock -c 222222
 
-new_window pixel 2
-
 exec --no-startup-id nm-applet
