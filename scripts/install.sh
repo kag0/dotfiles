@@ -12,7 +12,9 @@ sudo apt-get install -y \
     gtk-chtheme \
     qt4-qtconfig \
     lxappearance \
-    terminator
+    terminator \
+    oracle-java8-installer \
+    sublime-text-installer
 
 git clone https://github.com/nojhan/liquidprompt.git ~/liquidprompt
 
