@@ -2,4 +2,4 @@
 
 echo '[[ $- = *i* ]] && source ~/liquidprompt/liquidprompt' >> ~/.bashrc
 
-cp -R ../dotfiles/.config ~/.config
+cp -R ../dotfiles/.config ~
