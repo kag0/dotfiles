@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
 sudo apt-get update
-sudo apt-get upgrade
 sudo apt-get install -y \
     linux-image-extra-$(uname -r) linux-image-extra-virtual \
     docker-engine \
